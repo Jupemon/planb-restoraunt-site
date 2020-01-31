@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/planb-restoraunt-site/static/css/main.69b80e93.chunk.css",
+    "main.js": "/planb-restoraunt-site/static/js/main.01584f01.chunk.js",
+    "main.js.map": "/planb-restoraunt-site/static/js/main.01584f01.chunk.js.map",
+    "runtime~main.js": "/planb-restoraunt-site/static/js/runtime~main.a8745c79.js",
+    "runtime~main.js.map": "/planb-restoraunt-site/static/js/runtime~main.a8745c79.js.map",
+    "static/js/2.76d74307.chunk.js": "/planb-restoraunt-site/static/js/2.76d74307.chunk.js",
+    "static/js/2.76d74307.chunk.js.map": "/planb-restoraunt-site/static/js/2.76d74307.chunk.js.map",
+    "index.html": "/planb-restoraunt-site/index.html",
+    "precache-manifest.b401e912b49af8a0d709030a004a5e99.js": "/planb-restoraunt-site/precache-manifest.b401e912b49af8a0d709030a004a5e99.js",
+    "service-worker.js": "/planb-restoraunt-site/service-worker.js",
+    "static/css/main.69b80e93.chunk.css.map": "/planb-restoraunt-site/static/css/main.69b80e93.chunk.css.map",
+    "static/media/image1.png": "/planb-restoraunt-site/static/media/image1.980adae0.png",
+    "static/media/image2.png": "/planb-restoraunt-site/static/media/image2.30737699.png",
+    "static/media/image3.png": "/planb-restoraunt-site/static/media/image3.2be30d85.png",
+    "static/media/style.css": "/planb-restoraunt-site/static/media/pizza.4ba2d8c6.png"
+  }
+}
